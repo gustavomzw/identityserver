@@ -1,0 +1,4 @@
+{
+  "issuer":"https://gustavomzw.github.io/identityserver/",
+  "jwks_uri":"https://gustavomzw.github.io/identityserver/.well-known/jwks.json"
+}
